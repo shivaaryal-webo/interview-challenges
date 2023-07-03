@@ -28,14 +28,14 @@ We'll be looking into following aspects of your assignment and using them as jud
 - User experience
 - Impmentation of React Query/SWR and Other useful libraries
 
-Request you to submit the assignment by [date]. 
+#### Submission
+
+After completing the task, Request you to submit the assignment by [date].
+
 
 Let us know if you have any concerns in this regard or want to extend the deadline.  
 
+#### Note
 Note: All materials submitted by the candidate will be used exclusively for assessment purposes.
-
-#### Submission
-
-After completing the task, please submit your repo and demo link to [email]
 
 Good Luck!
