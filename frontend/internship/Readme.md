@@ -30,7 +30,7 @@ We'll be looking into following aspects of your assignment and using them as jud
 
 #### Submission
 
-After completing the task, please submit your profile information and application form [here](https://forms.gle/GYPc8K1JGiDMNihr9). 
+After completing the task, please submit your assignment via Email. 
 
 Good Luck!
 
